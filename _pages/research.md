@@ -19,9 +19,9 @@ I look into whether various island structure are similarly sensitive to differen
 
 <h3> Correlatives and wh-indefinites in Balkar (joint work with Ilya Naumov) </h3>
 
-We explore how comes that correlatives and wh-indefinites in Balkar differ in meaning while being similar morpho-syntactically. 
-
-Towards a unified analysis of correlatives and indefinites in Balkar. (2020) In Proceedings of the Tu+5 Workshop on Turkish, Turkic and the languages of Turkey.
+<ul>
+<li>Towards a unified analysis of correlatives and indefinites in Balkar. (2020) In Proceedings of the Tu+5 Workshop on Turkish, Turkic and the languages of Turkey.</li>
+</ul>
 
 <h3> Ellipsis in Buryat </h3>
 
