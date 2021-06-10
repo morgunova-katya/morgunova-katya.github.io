@@ -5,7 +5,7 @@ title: Research
 
 This are some of the projects I have worked on together with the relevant papers, handouts and presentations. For the full bibliography see my CV.
 
-<h2> Complementizer-trace effect in Russian </h2>
+<h3> Complementizer-trace effect in Russian </h3>
 
 # Dative-infinitive construction in Russian
 
