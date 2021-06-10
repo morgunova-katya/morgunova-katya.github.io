@@ -1,6 +1,6 @@
 site: Katya Morgunova
 url: https://example.com
-title: Katya Morgunova
+title: Katya
 description: Ultra - Super fast Jekyll theme, weighs under 2kb
 twitter:
   username: yourusername
@@ -30,6 +30,12 @@ collections:
   pages:
     output: true
     permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
   
 defaults:
   -
@@ -46,9 +52,15 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
-      layout: "page"
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
       
   - scope:
       path: "assets/images"
