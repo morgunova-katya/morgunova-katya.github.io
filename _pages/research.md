@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-This are some of the projects I have worked on together with the relevant papers, handouts and presentations. For the full bibliography see my CV.
+This are some of the projects I have worked on together with the relevant papers, handouts and presentations. For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
 
 <center><h3> &#11088; Complementizer-trace effect in Russian &#11088; </h3> </center>
 
