@@ -25,7 +25,7 @@ a,a:visited {
   font-weight: bold;
 
   &:hover {
-    color: dodgerblue;
+    color: MediumVioletRed;
   }
 }
 
@@ -33,6 +33,16 @@ a.active {
     background: black;
     padding: 0.5rem;
     color: white;
+    font-weight: bold;
+}
+
+a.cv {
+    color: white;
+    font-weight: bold;
+}
+
+a.pdf {
+    color: MediumVioletRed;
     font-weight: bold;
 }
 
