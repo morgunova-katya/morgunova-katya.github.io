@@ -5,28 +5,47 @@ title: Research
 
 This are some of the projects I have worked on together with the relevant papers, handouts and presentations. For the full bibliography see my CV.
 
-<h3> Complementizer-trace effect in Russian </h3>
-
-I conducted an experimental study to see whether Russian really exhibits complementizer trace effect and explore what it might mean for the theory of the phenomenon in general. 
-
-<h3> Dative-infinitive construction in Russian </h3>
-
-I look at different syntactic and semantic properties of dative-infinitves constructions in Russian (similar to English John is to finish his breakfast), such as covert modality, the internal structure of the construction and the nature of subject's dative case. (Un)fortunately, only availaible in Russian right now. 
-
-<h3> A'-dependencies and island constraints in Russian </h3>
-
-I look into whether various island structure are similarly sensitive to different types of A-bar extractions. Turns out, there are certain cool puzzles in this area. I also explore the nature of asymmetry in different types of A'-movements using experimental methods.
-
-<h3> Correlatives and wh-indefinites in Balkar (joint work with Ilya Naumov) </h3>
+<ul>
+<li> <h3> complementizer-trace effect in Russian </h3> </li>
 
 <ul>
-<li>Towards a unified analysis of correlatives and indefinites in Balkar. (2020) In Proceedings of the Tu+5 Workshop on Turkish, Turkic and the languages of Turkey.</li>
+<li>Complementizer-trace effect in Russian. (Under review) Proceedings of the 29th Conference  of the Student Organizationof Linguistics in Europe  (26-28 January 2021, Leiden University Centre for Linguistics).</li>
+<li>[in Russian] Complementizer-trace effect in Russian. (To appear) A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. </li>
 </ul>
 
-<h3> Ellipsis in Buryat </h3>
+<li><h3> dative-infinitive construction in Russian </h3></li>
 
-I studied sluicing and verbal anaphors in Buryat. 
+<ul>
+<li> [in Russian] Syntax and semantics of dative-infinitive constructions in Russian. (2021). MA thesis. </li>
+</ul>
 
-<h3> Fragment answers in Russian </h3>
+<li><h3> A'-dependencies and island constraints in Russian </h3></li>
 
-I describe the properties of Russian fragment answers and explore what can they tell us about fragment answers generation. 
+<ul>
+<li> [in Russian] Structural and featural asymmetries in Russian A-bar movement. (2019). BA thesis. </li>
+</ul>
+
+[in Russian]Featural asymmetries in extraction out of the strong islands in Russian.2019InTypology of Morphosyntactic Parameters2(1).
+
+<li><h3> Correlatives and wh-indefinites in Balkar (joint work with Ilya Naumov) </h3></li>
+
+<ul>
+<li>Towards a unified analysis of correlatives and indefinites in Balkar. (2020) Proceedings of the Tu+5 Workshop on Turkish, Turkic and the languages of Turkey.</li>
+</ul>
+
+<li><h3> Ellipsis in Buryat </h3></li>
+
+<ul>
+<li> Scrambling-derived sluicing-like constructions. (2019) Proceedings of WAFL 14, MIT Working Papers in Linguistics, 90. pre-print version</li>
+
+<li> The verb ti:xe in Barguzin Buryat  a case of overt surface anaphora. (2018) Proceedings of the 26th Conference  of the Student Organizationof Linguistics in Europe  (14-16 February 2018, University College London, UK) </li>
+</ul>
+
+<li><h3> Fragment answers </h3></li>
+
+<ul>
+<li>“Head of an XP” fragments in Russian. (2019) Russian Linguistics 43(2). pre-print version </li>
+<li>[in Russian] Fragment answers in Russian and Georgian:Evidence in favor of the PF-movement in ellipsis. (2018). Typology of Morphosyntactic Parameters 1(1). </li>
+</ul>
+
+</ul>
