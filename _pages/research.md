@@ -26,7 +26,7 @@ These are some of the projects I have worked on together with the relevant paper
 </ul>
 
 
-<center><h3> &#11088; Correlatives and wh-indefinites in Balkar &#11088; </h3> <h4>(joint work with Ilya Naumov)</h4></center>
+<center><h3> &#11088; Correlatives and wh-indefinites in Balkar &#11088; <br> joint work with Ilya Naumov</h3></center>
 
 <ul>
 <li> <i>Towards a unified analysis of correlatives and indefinites in Balkar.</i> (2020). Proceedings of the Tu+5 Workshop on Turkish, Turkic and the languages of Turkey. <br> <a href="{{ site.baseurl }}/files/morgunova_naumov_correlatives_wh_indef_2020.pdf" class="pdf">paper</a> </li>
