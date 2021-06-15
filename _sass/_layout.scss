@@ -62,15 +62,15 @@ footer {
 }
 
 @font-face {
-    font-family: 'Roboto_Slab';
-    src: url('../Roboto-Slab/static/RobotoSlab-Regular.ttf') format('truetype');
+    font-family: "Roboto_Slab";
+    src: url('{{ site.baseurl }}/Roboto-Slab/static/RobotoSlab-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto_Slab';
-    src: url('../Roboto-Slab/static/RobotoSlab-Bold.ttf') format('truetype');
+    font-family: "Roboto_Slab";
+    src: url('{{ site.baseurl }}/Roboto-Slab/static/RobotoSlab-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: bold;
 }
