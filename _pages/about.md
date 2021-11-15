@@ -7,4 +7,4 @@ My name is Katya (Ekaterina in official documents). I am a first year Ph.D. stud
 
 My research focuses on syntax and syntax-semantics interface. I also do fieldwork and experimental research. My most recent projects concern a number of puzzles in Russian, including A'-movement, islands, complementizer-trace effect, covert modality and syntax of modal predicates.
 
-I am from a Russian city Ulyanovsk. Lenin was born there and it also has a cool view of the Volga River. Aside from linguistics, I like watching films (check out my <a href="https://letterboxd.com/simbir/">letterboxd</a>), swimming, biking and drinking fancily brewed coffee. 
+I am from a Russian city Ulyanovsk. Vladimir Lenin was born there and it also has a beautiful view of the Volga River. Aside from linguistics, I like watching films (check out my <a href="https://letterboxd.com/simbir/">letterboxd</a>), swimming and biking. 
