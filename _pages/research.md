@@ -8,7 +8,7 @@ These are some of the projects I have worked on together with the relevant paper
 <center><h3> &#11088; Complementizer-trace effect in Russian &#11088; </h3> </center>
 
 <ul>
-<li><i>Complementizer-trace effect in Russian.</i> (Under review). Proceedings of the 29th Conference of the Student Organization of Linguistics in Europe (26-28 January 2021, Leiden University Centre for Linguistics). <br> <a href="{{ site.baseurl }}/files/console29-first-morgunova.pdf" class="pdf">pre-print</a> </li>
+<li><i>Complementizer-trace effect in Russian.</i> (2021). Proceedings of the 29th Conference of the Student Organization of Linguistics in Europe (26-28 January 2021, Leiden University Centre for Linguistics). <br> <a href="{{ site.baseurl }}/files/console29-final-morgunova.pdf" class="pdf">pre-print</a> </li>
 <li>[in Russian] <i>Complementizer-trace effect in Russian.</i> (To appear). A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/complementizer_trace_draft_final_rus.pdf" class="pdf">pre-print</a> </li>
 </ul>
 
