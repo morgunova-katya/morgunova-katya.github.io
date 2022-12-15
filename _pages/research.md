@@ -7,8 +7,6 @@ These are some of the projects I have worked on together with the relevant paper
 
 <center><h3> &#11088; DP structure in Kirundi &#11088; <br> <span style="font-weight:normal"><i>joint work with David Shanks</i></span></h3> </center>
 
-https://www.dshanks.com/
-
 <ul>
 <li> <i>On the left periphery of the Kirundi noun phrase.</i> (2022). Ba-TOM 1. </li>
 </ul>
