@@ -5,7 +5,7 @@ title: Publications
 
 For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
 
-<h3> Journal articles </h3>
+<h3, style="background-color: #f28e1c"> Journal articles </h3>
 
 <h4> 2019 </h4>
 
@@ -23,7 +23,9 @@ For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.
 
 <h4> 2021 </h4>
 
+<ul>
 <li><i>Complementizer-trace effect in Russian.</i> Proceedings of the 29th Conference of the Student Organization of Linguistics in Europe (26-28 January 2021, Leiden University Centre for Linguistics). <br> <a href="{{ site.baseurl }}/files/console29-final-morgunova.pdf" class="pdf">paper</a> </li>
+</ul>
 
 <h4> 2020 </h4>
 
