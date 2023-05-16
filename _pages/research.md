@@ -5,7 +5,7 @@ title: Publications
 
 For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
 
-<h3, style="background-color: #f28e1c"> Journal articles </h3>
+<h3, style="background-color: #f28e1c;"> Journal articles </h3>
 
 <h4> 2019 </h4>
 
@@ -58,8 +58,8 @@ For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.
 <h3> Manuscripts </h3>
 
 <ul>
-<li> [in Russian] <i>Syntax and semantics of dative-infinitive constructions in Russian.</i> (2021). <br> <a href="{{ site.baseurl }}/files/morgunova_MA_thesis.pdf" class="pdf">MA thesis</a> </li>
-<li> [in Russian] <i>Structural and featural asymmetries in Russian A-bar movement.</i> (2019). <br> <a href="{{ site.baseurl }}/files/morgunova_BA_thesis.pdf" class="pdf">BA thesis</a> </li>
+<li> [in Russian] <i>Syntax and semantics of dative-infinitive constructions in Russian.</i> <br> <a href="{{ site.baseurl }}/files/morgunova_MA_thesis.pdf" class="pdf">MA thesis</a> </li>
+<li> [in Russian] <i>Structural and featural asymmetries in Russian A-bar movement.</i> <br> <a href="{{ site.baseurl }}/files/morgunova_BA_thesis.pdf" class="pdf">BA thesis</a> </li>
 </ul>
 
 
