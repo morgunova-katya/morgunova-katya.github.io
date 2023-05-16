@@ -3,8 +3,6 @@ layout: page
 title: Publications
 ---
 
-For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
-
 <h3> Journal articles </h3>
 
 <h4> 2019 </h4>
