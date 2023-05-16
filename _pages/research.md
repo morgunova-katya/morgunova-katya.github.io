@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
 
-These are some of the projects I have worked on together with the relevant papers, handouts and presentations. For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
+For the full bibliography see my <a href="{{ site.baseurl }}/files/morgunova_cv.pdf" class="pdf">CV</a>.
 
-<center><h3> &#11088; DP structure in Kirundi &#11088; <br> <span style="font-weight:normal"><i>joint work with David Shanks</i></span></h3> </center>
+<h3> Accepted </h3>
 
 <ul>
-<li> <i>On the left periphery of the Kirundi noun phrase.</i> (2022). Ba-TOM 1. </li>
+<li> <i>On the left periphery of the Kirundi noun phrase.</i> [with David Shanks] Toronto Working papers in Linsistics 45.  </li>
 </ul>
 
-<center><h3> &#11088; Complementizer-trace effect in Russian &#11088; </h3> </center>
+<h3> 2021 </h3>
 
 <ul>
 <li><i>Complementizer-trace effect in Russian.</i> (2021). Proceedings of the 29th Conference of the Student Organization of Linguistics in Europe (26-28 January 2021, Leiden University Centre for Linguistics). <br> <a href="{{ site.baseurl }}/files/console29-final-morgunova.pdf" class="pdf">paper</a> </li>
