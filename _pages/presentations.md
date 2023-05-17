@@ -6,8 +6,8 @@ title: Presentations
 <h4> 2023 </h4>
 
 <ul>
-	<li>[with Tehokwiráthe Cross, Terrance Gatchalian, Willie Myers and Ro'nikonhkátste Norton] <i> Lexical aspect and the stative present in Kanien'kéha </i> Talk at WSCLA 2023. Slides.</li>
-	<li>[with <a href='https://www.anastasiatsilia.com/'>Anastasia Tsilia</a>] <i> Why would you D that? On the D-layer in Greek clausal subjects </i> Poster presentation at PLC 47 and CLS 59. Poster, handout.</li>
+	<li>[with Tehokwiráthe Cross, Terrance Gatchalian, Willie Myers and Ro'nikonhkátste Norton] <i> Lexical aspect and the stative present in Kanien'kéha </i> Talk at WSCLA 2023. <a href="{{ site.baseurl }}/files/wscla_slides.pdf" class="pdf">Slides</a>.</li>
+	<li>[with <a href='https://www.anastasiatsilia.com/'>Anastasia Tsilia</a>] <i> Why would you D that? On the D-layer in Greek clausal subjects </i> Poster presentation at PLC 47 and CLS 59. <a href="{{ site.baseurl }}/files/greek_spr2023_handout.pdf" class="pdf">Handout</a>.</li>
 </ul>
 
 
