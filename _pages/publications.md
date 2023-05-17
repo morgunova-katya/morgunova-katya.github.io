@@ -26,7 +26,7 @@ title: Publications
 <h4> Accepted </h4>
 
 <ul>
-<li> <i>On the left periphery of the Kirundi noun phrase.</i> [with David Shanks] Toronto Working papers in Linsistics 45.  </li>
+<li> <i>On the left periphery of the Kirundi noun phrase.</i> [with David Shanks] Toronto Working papers in Linsistics 45. </li>
 </ul>
 
 <h4> 2021 </h4>

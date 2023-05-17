@@ -22,7 +22,7 @@ title: Presentations
 <h4> 2021 </h4>
 
 <ul>
-	<li> <i> Complementizer-trace effects in Russian. </i> Poster presentation at ConSOLE 29. Poster, proceedings.</li>
+	<li> <i> Complementizer-trace effects in Russian. </i> Poster presentation at ConSOLE 29. Poster, <a href="{{ site.baseurl }}/files/console29-final-morgunova.pdf" class="pdf">proceedings</a>.</li>
 </ul>
 
 
@@ -30,7 +30,7 @@ title: Presentations
 
 <ul>
 	<li>[with Ilya Naumov] <i>So similar, yet so different: correlatives and indefinites in Balkar.</i> Talk at Small Languages in Big Linguistics. Handout (in Russian).</li>
-	<li> [with Ilya Naumov] <i>Towards a unified analysis of correlatives and indefinites in Balkar.</i>Talk at Tu+5. Handout, proceedings. </li>
+	<li> [with Ilya Naumov] <i>Towards a unified analysis of correlatives and indefinites in Balkar.</i>Talk at Tu+5. Handout, <a href="{{ site.baseurl }}/files/morgunova_naumov_correlatives_wh_indef_2020.pdf" class="pdf">proceedings</a>. </li>
 </ul>
 
 <h4> 2019 </h4>
