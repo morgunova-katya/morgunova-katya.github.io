@@ -7,7 +7,7 @@ title: Presentations
 
 <ul>
 	<li>[with Tehokwiráthe Cross, Terrance Gatchalian, Willie Myers and Ro'nikonhkátste Norton] <i> Lexical aspect and the stative present in Kanien'kéha </i> Talk at WSCLA 2023. Slides.</li>
-	<li>[with Anastasia Tsilia] <i> Why would you D that? On the D-layer in Greek clausal subjects </i> Poster presentation at PLC 47 and CLS 59. Poster, handout.</li>
+	<li>[with <a href='https://www.anastasiatsilia.com/'>Anastasia Tsilia</a>] <i> Why would you D that? On the D-layer in Greek clausal subjects </i> Poster presentation at PLC 47 and CLS 59. Poster, handout.</li>
 </ul>
 
 
@@ -53,5 +53,5 @@ title: Presentations
 <ul>
 	<li><i>The problem of the analysis of sluicing constructions in Buryat.</i> Talk at the 14th Conference on Typology and Grammar for Young Scholars. Proceedings.</li>
 	<li><i>Elliptical construction with the verb ti:xə in Buryat.</i> Talk at Small Languages in Big Linguistics, Lomonosov MSU.</li>
-	<li><i>Reflexive pronoun ške in Hill Mary.</i> Talk at the 3rd Student Conference of the Institute of Linguistics</li>
+	<li><i>Reflexive pronoun ške in Hill Mary.</i> Talk at the 3rd Student Conference of the Institute of Linguistics.</li>
 </ul>
