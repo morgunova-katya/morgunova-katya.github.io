@@ -26,6 +26,7 @@ title: Publications
 <h4> Accepted </h4>
 
 <ul>
+<li> <i>Lexical aspect and the Stative Present in Kanien’kéha</i> [with Tehokwiráthe Cross, Terrance Gatchalian, Willie Myers and Ro’nikonhkátste Norton] University of British Columbia Working Papers in Linguistics. <br> <a href="{{ site.baseurl }}/files/cross_et_al_2023_lexical_aspect_in_kanien'keha.pdf" class="pdf">pre-print</a> </li>
 <li> <i>On the left periphery of the Kirundi noun phrase.</i> [with David Shanks] Toronto Working papers in Linsistics 45. </li>
 </ul>
 
