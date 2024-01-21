@@ -16,9 +16,9 @@ title: Publications
 <h4> 2021 </h4>
 
 <ul>
-<li>[in Russian] <i>Island constructions in Russian.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/complementizer_trace_draft_final_rus.pdf" class="pdf">pre-print</a> </li>
-<li>[in Russian] <i>Island properties of the declarative clause with the complementizer chto.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/complementizer_trace_draft_final_rus.pdf" class="pdf">pre-print</a> </li>
-<li>[in Russian] <i>Complementizer-trace effect in Russian.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/complementizer_trace_draft_final_rus.pdf" class="pdf">pre-print</a> </li>
+<li>[in Russian] <i>Island constructions in Russian.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/morgunova_2021_ch2.pdf" class="pdf">pre-print</a> </li>
+<li>[in Russian] <i>Island properties of the declarative clause with the complementizer chto.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/morgunova_2021_ch4.pdf" class="pdf">pre-print</a> </li>
+<li>[in Russian] <i>Complementizer-trace effect in Russian.</i> A. Gerasimova, E. Lyutikova (eds.) Russian Islands in the Light of Experimental Data. <br> <a href="{{ site.baseurl }}/files/morgunova_2021_ch12.pdf" class="pdf">pre-print</a> </li>
 </ul>
 
 <h3> Conference proceedings </h3>
