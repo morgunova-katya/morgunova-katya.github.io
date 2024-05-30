@@ -46,8 +46,8 @@ title: Presentations
 <h4> 2019 </h4>
 
 <ul>
-	<li> <i>Feature asymmetries in extraction out of strong islands in Russian.</i> Talk at the Typology of Morphosyntactic Parameters 9. Handout (in Russian). </li>
-	<li> <i>Island constraints and movement asymmetries in Russian.</i> Talk at Russian Grammar: Active Processes in Language and Speech. Slides (in Russian).</li>
+	<li> <i>Feature asymmetries in extraction out of strong islands in Russian.</i> Talk at the Typology of Morphosyntactic Parameters 9. <a href="{{ site.baseurl }}/files/morgunova_tmp2019_handout.pdf" class="pdf">Handout</a> (in Russian). </li>
+	<li> <i>Island constraints and movement asymmetries in Russian.</i> Talk at Russian Grammar: Active Processes in Language and Speech. <a href="{{ site.baseurl }}/files/morgunova_rusgram_slides.pdf" class="pdf">Slides</a> (in Russian).</li>
 </ul>
 
 <h4> 2018 </h4>
