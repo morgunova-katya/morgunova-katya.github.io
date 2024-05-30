@@ -6,7 +6,7 @@ title: Presentations
 <h4> 2024 </h4>
 
 <ul>
-	<li> <i>Bipartte Negaton in Kanien’kéha. </i> Poster presentation at WSCLA 2024. <a href="{{ site.baseurl }}/files/morgunova_wscla24_poster.pdf" class="pdf">Poster.</a> </li>
+	<li> <i>Bipartite Negaton in Kanien’kéha. </i> Poster presentation at WSCLA 2024. <a href="{{ site.baseurl }}/files/morgunova_wscla24_poster.pdf" class="pdf">Poster.</a> </li>
 	<li> <i>Interaction of negation and modality in Kanien’keha </i> Poster presentation at TOM 16. <a href="{{ site.baseurl }}/files/morgunova_tom16_poster.pdf" class="pdf">Poster.</a> </li>
 </ul>
 
